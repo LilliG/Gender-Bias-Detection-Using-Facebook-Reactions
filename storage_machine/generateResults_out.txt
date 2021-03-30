@@ -1,0 +1,59 @@
+Average entropy across all posts:
+          avg           
+------------------------
+ 0.69104828735774962070
+(1 row)
+
+
+Average entropy across all posts for pages of male and female politicians:
+ gender |          avg           
+--------+------------------------
+ F      | 0.68004259069540572064
+ M      | 0.69670378865592238435
+(2 rows)
+
+
+Average entropy across all posts from 09/2019-04/2020:
+          avg           
+------------------------
+ 0.68162246250578178808
+(1 row)
+
+
+Average entropy across all posts from 09/2019-04/2020 for pages of male and female politicians:
+ gender |          avg           
+--------+------------------------
+ F      | 0.67464485035602314659
+ M      | 0.68535737664474706203
+(2 rows)
+
+
+Average entropy across all posts having at least 20 total reactions:
+          avg           
+------------------------
+ 0.79546573606706591685
+(1 row)
+
+
+Average entropy across all posts having at least 20 total reactions for pages of male and female politicians:
+ gender |          avg           
+--------+------------------------
+ M      | 0.79705087056895255010
+ F      | 0.79194659079817153410
+(2 rows)
+
+
+Average entropy across all posts controlling for date and minimum reactions:
+          avg           
+------------------------
+ 0.78686275712813832739
+(1 row)
+
+
+Average entropy across all posts controlling for date and minimum reactions for pages of male and female politicians:
+ gender |          avg           
+--------+------------------------
+ M      | 0.78603404552126913504
+ F      | 0.78861817510358284564
+(2 rows)
+

@@ -1,0 +1,530 @@
+Average entropy for each pages posts controlling for date:
+            name            | gender |          avg           
+----------------------------+--------+------------------------
+ Travis Oler                | M      | 0.00000000000000000000
+ Steve Swenson              | M      | 0.00000000000000000000
+ Valerie Willis             | F      | 0.00000000000000000000
+ Dan Wik                    | M      | 0.00000000000000000000
+ James Knox                 | M      | 0.00000000000000000000
+ Tharon Chandler            | M      | 0.00000000000000000000
+ Louis Grider               | M      | 0.00000000000000000000
+ David Goldfischer          | M      | 0.00000000000000000000
+ Jeffrey Grunau             | M      | 0.00000000000000000000
+ Atul Goel                  | M      | 0.03138817803858096957
+ Gaylon Kent                | M      | 0.07378060900209574615
+ Wayne Johnson              | M      | 0.08455156082707570000
+ Bryan Pruitt               | M      | 0.10691964365864020417
+ Glen L. Neal, Jr.          | M      | 0.10707206897441682745
+ Adrian Ocegueda            | M      | 0.16250560541208852500
+ Michael Knoles             | M      | 0.17190894098724631111
+ Aaron Pettigrew            | M      | 0.17340340152880852000
+ R. Mark Armstrong          | M      | 0.18471767285776064545
+ Stanley Adair              | M      | 0.19205261534531308235
+ Paul John Frangedakis      | M      | 0.19556835332331406952
+ Daniel Burke               | M      | 0.21043901075914991944
+ Maggie Jo Hillard          | F      | 0.21314398156160993333
+ Dean Hill                  | M      | 0.21406726103924970000
+ Merav Ben-David            | F      | 0.22151332368982392903
+ Joseph A. Camp             | M      | 0.22333031404908553701
+ Kacey Morgan               | F      | 0.22575272648440701000
+ Jo Rae Perkins             | F      | 0.23196571175745367135
+ Kevin O'Connor             | M      | 0.24331783690651123960
+ Forest Hyatt               | M      | 0.24971931468552818333
+ Natalie Rivera             | F      | 0.26687690769636446981
+ Richard Dien Winfield      | M      | 0.26914064229714546188
+ Robert Marshall            | M      | 0.27915019448113451714
+ Jon Henry                  | M      | 0.28741066729991094375
+ Jensen Bohren              | M      | 0.29203821240432828667
+ Paula Overby               | F      | 0.29543673646970333913
+ Roy Dale Cope              | M      | 0.30609861135149646667
+ Tiffany Bond               | F      | 0.30969109733938190000
+ Michael Franken            | M      | 0.32087668693932831634
+ Matt Innis                 | M      | 0.33838858427251037305
+ Corky Messner              | M      | 0.34140774487252650185
+ Jimmy Ausbrooks            | M      | 0.34391391732154830882
+ Doc Bolduc                 | M      | 0.34642126957774212572
+ Trevor Fuller              | M      | 0.34726702072447366706
+ Rik Mehta                  | M      | 0.36595062271443275813
+ Bennie J. Smith            | M      | 0.39076791077741767342
+ Victor Hugo Harris         | M      | 0.39716061475724225567
+ Susan Wagle                | F      | 0.39874094635154485870
+ Michael K. Cooper          | M      | 0.40251693422723392300
+ Sharon Hudson              | F      | 0.40987846304461688235
+ Allen Whitt                | M      | 0.41349307570831893233
+ Duke Buckner               | M      | 0.41866064624386112377
+ Madelyn Hoffman            | F      | 0.42271349039405580773
+ Tom Tarter                 | M      | 0.42428448918869466787
+ Elizabeth McLeod           | F      | 0.43273589310808801795
+ Veronica Fernandez         | F      | 0.43353931779582225304
+ Rob Barrett Jr.            | M      | 0.43755145422177514338
+ Johnny Presley             | M      | 0.44146377275670525051
+ Michelle Ferrigno Warren   | F      | 0.44668944550334025270
+ Michael LaPierre           | M      | 0.44741040044135473615
+ Linda Wooten               | F      | 0.45110721702456957143
+ Allen Waters               | M      | 0.45674390318654414607
+ Mark Curran                | M      | 0.45963921042386943708
+ Royce West                 | M      | 0.46825069334241845892
+ Jim Risch                  | M      | 0.46899559358928117000
+ Akhenaten Amun             | M      | 0.47044826186524662500
+ Ross LaJeunesse            | M      | 0.47493889337377493317
+ Diana Bray                 | F      | 0.47787022865395021250
+ Andrew Romanoff            | M      | 0.47877130759638731534
+ Ricky Dale Harrington Jr.  | M      | 0.48864958289446810267
+ Annie "Mama" Garcia        | F      | 0.50298217038221194538
+ Bill Hagerty               | M      | 0.50686664971517588345
+ Maya Dillard Smith         | F      | 0.51517750175064872500
+ Eric Rothmuller            | M      | 0.51524074041552262259
+ Arnold Mooney              | M      | 0.51813831226836895787
+ Sara Gideon                | F      | 0.52313523671371300742
+ Kris Kobach                | M      | 0.52450881743388049273
+ Marquita Bradshaw          | F      | 0.52509357003674956667
+ Dwayne Stovall             | M      | 0.54297122136188596777
+ Tricia Flanagan            | F      | 0.55140469980613422266
+ Paul Romero                | M      | 0.56131574198158956375
+ Joshua Wheeler             | M      | 0.56504337975448599837
+ John Mues                  | M      | 0.56851844939100327726
+ Tommy Tuberville           | M      | 0.56883436120148535866
+ Manny Sethi                | M      | 0.57846407536099114936
+ Shannon Bray               | M      | 0.58305460319938144225
+ Chris Janicek              | M      | 0.59465746402057776467
+ Angie Philips              | F      | 0.59548824104723493042
+ Cindy Hyde-Smith           | F      | 0.59752349649071620679
+ Lawrence Hamm              | M      | 0.60200999039352453546
+ Dave Lindstrom             | M      | 0.61148236963628426166
+ Cora Neumann               | F      | 0.61175840039053541543
+ Antoine Pierce             | M      | 0.61525807383865622658
+ Dan Sullivan               | M      | 0.62055138864821119241
+ Casey Chlebek              | M      | 0.62105179624246810375
+ Erik Underwood             | M      | 0.62185908949141135154
+ Cynthia Lummis             | F      | 0.62398262241574083695
+ Bradley Byrne              | M      | 0.63086713693115607586
+ Al Gross                   | M      | 0.63108052580600680608
+ Mary Jennings Hegar        | F      | 0.63385937613061194579
+ Jeanne Shaheen             | F      | 0.63942211225837134418
+ Roger Marshall             | M      | 0.64768486150257125352
+ Justin O'Donnell           | M      | 0.64805994347745746931
+ Mark Ronchetti             | M      | 0.64811044928298203404
+ Hirsh Singh                | M      | 0.65144730718453742560
+ Lisa Savage                | F      | 0.65509271255583989419
+ Kimberly Graham            | F      | 0.65890870129677513222
+ Theresa Greenfield         | F      | 0.66127834880075683798
+ Usha Reddi                 | F      | 0.66478461730557358533
+ John James                 | M      | 0.66489297050770188697
+ Kerry McKennon             | M      | 0.67516819334944517646
+ Brian Matlock              | M      | 0.68021334651185740072
+ Byron Bush                 | M      | 0.68252252165068647182
+ Daniel McCarthy            | M      | 0.68695094039301545091
+ Dan Whitfield              | M      | 0.68759005569149416752
+ Lauren Witzke              | F      | 0.69528677332260425815
+ Amanda Edwards             | F      | 0.70269132183818992707
+ Mike Broihier              | M      | 0.70287462311958743310
+ Willie Wilson              | M      | 0.71847894032878293470
+ Doug Jones                 | M      | 0.71972051850173020276
+ John Anthony Castro        | M      | 0.71981859382726796364
+ Barbara Bollier            | F      | 0.71993081620302495553
+ J.J. Stitt                 | M      | 0.71995157685869455050
+ Yana Ludwig                | F      | 0.72006322305571138766
+ Mark Kelly                 | M      | 0.72233778324570814911
+ Cal Cunningham             | M      | 0.72318026529791737173
+ Matt Lieberman             | M      | 0.72732241195510352790
+ Abby Broyles               | F      | 0.73184781341588366253
+ Kelly Loeffler             | F      | 0.73220922984557115446
+ Roy Moore                  | M      | 0.73687165960893381820
+ Jason Lewis                | M      | 0.73760397270914357992
+ Jess Scarane               | F      | 0.73774337061142307873
+ Jon Ossoff                 | M      | 0.74009960733452436707
+ Tina Smith                 | F      | 0.74327818897463012955
+ Sarah Riggs Amico          | F      | 0.74342797294141524120
+ Jim Inhofe                 | M      | 0.74727938232387102850
+ Cristina Tzintzún Ramirez  | F      | 0.75125994430068413055
+ Amy McGrath                | F      | 0.75855676696813550189
+ James Mackler              | M      | 0.76177299404151529951
+ Paula Jean Swearengin      | F      | 0.76190870916085773875
+ Mike Workman               | M      | 0.76538222309108521667
+ Wesley Morgan              | M      | 0.77923247298135595175
+ Thom Tillis                | M      | 0.78107365775380578163
+ Jaime Harrison             | M      | 0.78179645085564401803
+ Steve Daines               | M      | 0.78835857859305322773
+ Jeff Sessions              | M      | 0.79444363285858920144
+ Betsy Sweet                | F      | 0.79643830302830147264
+ Joni Ernst                 | F      | 0.79832215957234017657
+ Erica D. Smith             | F      | 0.80375094408485203603
+ Teresa Tomlinson           | F      | 0.80828661584500250186
+ Paul Wright                | M      | 0.81127812445913280000
+ Peggy Hubbard              | F      | 0.81702370606774593497
+ Raphael Warnock            | M      | 0.81907251449863460000
+ Lorena Garcia              | F      | 0.82136490113351943542
+ Stephany Rose Spaulding    | F      | 0.82205232136508889000
+ Eddie Mauro                | M      | 0.82226061831784612346
+ Mick Rich                  | M      | 0.82613734473674723563
+ Alisha Shelton             | F      | 0.83120041205517838385
+ Martha McSally             | F      | 0.83793597201768375682
+ Elisa Martinez             | F      | 0.83828618610793051567
+ Ed Markey                  | M      | 0.83867456912400396947
+ Elysabeth Britt            | F      | 0.87165125956804358571
+ Shelley Moore Capito       | F      | 0.87252546542096235088
+ David Weikle               | M      | 0.87608443862436684065
+ David Perdue               | M      | 0.88106606892778920010
+ Joe Kennedy III            | M      | 0.88954347029491466125
+ Trish Zornio               | F      | 0.90887671396769990053
+ Charles Booker             | M      | 0.92611668127568738203
+ Tom Cotton                 | M      | 0.94493688271758052590
+ Ben Sasse                  | M      | 0.94748864476285941769
+ Bill Cassidy               | M      | 0.94834728396777379478
+ Sema Hernandez             | F      | 0.95035206761275648987
+ Nancy Harris               | F      | 0.95176570797769902613
+ Doug Collins               | M      | 0.95597613069933410412
+ Bre Kidman                 | F      | 0.96049614765001901677
+ Susan Collins              | F      | 0.96244907176550876650
+ Ben Ray Luján              | M      | 0.97661402792382591038
+ Richard Ojeda              | M      | 0.98696068476088823990
+ Gary Peters                | M      | 1.00002592307351960525
+ Wilmot Collins             | M      | 1.00043296845517772760
+ Gavin Clarkson             | M      |    1.00792705523253209
+ John Hickenlooper          | M      |    1.00917763259920471
+ Chris Coons                | M      |    1.03385496291567749
+ Jeff Merkley               | M      |    1.03798699482585055
+ Cory Booker                | M      |    1.05565075338095006
+ Lindsey Graham             | M      |     1.0802327156791359
+ John Cornyn                | M      |    1.08682932189656248
+ Dick Durbin                | M      |    1.14058801647234738
+ Mitch McConnell            | M      |     1.3625390398794314
+ Craig Brittain             | M      |     1.3652934019310268
+ Mark Turley                | M      |                       
+ Ricardo Turullols-Bonilla  | M      |                       
+ Naren James                | M      |                       
+ Tom Emerson Jr.            | M      |                       
+(193 rows)
+
+
+Average entropy for each pages posts controlling for minimum reactions:
+            name            | gender |          avg           
+----------------------------+--------+------------------------
+ Glen L. Neal, Jr.          | M      | 0.00000000000000000000
+ Matt Innis                 | M      | 0.35669672177147297140
+ Kevin O'Connor             | M      | 0.36164460126094608500
+ Rik Mehta                  | M      | 0.38197921807122927449
+ Michael Franken            | M      | 0.38485766525944570648
+ Merav Ben-David            | F      | 0.38611782257203200469
+ Doc Bolduc                 | M      | 0.40031160914343654743
+ Aaron Pettigrew            | M      | 0.40799802025295335000
+ Tom Tarter                 | M      | 0.43782088622943446273
+ Natalie Rivera             | F      | 0.44052818180573713333
+ Linda Wooten               | F      | 0.47930391403844720000
+ Ross LaJeunesse            | M      | 0.48855274859843019258
+ Mark Curran                | M      | 0.49028182445212739956
+ Johnny Presley             | M      | 0.49810752153740091569
+ Jon Henry                  | M      | 0.51395045990335236667
+ Rob Barrett Jr.            | M      | 0.52133475350525356316
+ Corky Messner              | M      | 0.52204382370016450045
+ Arnold Mooney              | M      | 0.53236849989884324500
+ Royce West                 | M      | 0.53334856953675337163
+ Casey Chlebek              | M      | 0.54048724527883121200
+ Jo Rae Perkins             | F      | 0.54685505745982300000
+ Daniel Burke               | M      | 0.55057737620203886667
+ Al Gross                   | M      | 0.55658508840367637805
+ Duke Buckner               | M      | 0.56416219172687741769
+ Tommy Tuberville           | M      | 0.56466001942764542648
+ Sara Gideon                | F      | 0.56803470642172034144
+ Kris Kobach                | M      | 0.57914490562381698110
+ Dwayne Stovall             | M      | 0.59746668599203881226
+ Bill Hagerty               | M      | 0.59956174434231707257
+ Michael LaPierre           | M      | 0.60334168095160929727
+ Dave Lindstrom             | M      | 0.60728362833169582596
+ Cynthia Lummis             | F      | 0.60880710428986950257
+ Bryan Pruitt               | M      | 0.61595554984145695000
+ Richard Dien Winfield      | M      | 0.62050499141956482500
+ Cindy Hyde-Smith           | F      | 0.62195358603020060794
+ John James                 | M      | 0.62585306206848222568
+ Susan Wagle                | F      | 0.62854668467373727171
+ Dan Sullivan               | M      | 0.63585222876004778897
+ Roger Marshall             | M      | 0.64476536811912586597
+ Diana Bray                 | F      | 0.64710387033006315000
+ John Mues                  | M      | 0.64775846079189730950
+ Mark Ronchetti             | M      | 0.64811044928298203404
+ Trevor Fuller              | M      | 0.65209730425695435182
+ Cal Cunningham             | M      | 0.65241350362479112089
+ Manny Sethi                | M      | 0.65258947087046821031
+ John Anthony Castro        | M      | 0.65520157442359208182
+ Andrew Romanoff            | M      | 0.65568338199489765490
+ Bradley Byrne              | M      | 0.65580940441745534141
+ Allen Waters               | M      | 0.65855937501424965967
+ Mary Jennings Hegar        | F      | 0.66397154447977005459
+ Allen Whitt                | M      | 0.66811270268988452727
+ Michelle Ferrigno Warren   | F      | 0.67310196837654806670
+ R. Mark Armstrong          | M      | 0.67930955999788220000
+ Tricia Flanagan            | F      | 0.68415576496737521134
+ Lauren Witzke              | F      | 0.68632224667817365826
+ Jeanne Shaheen             | F      | 0.68688014649583564279
+ Paul John Frangedakis      | M      | 0.68736674561552095000
+ Ricky Dale Harrington Jr.  | M      | 0.68780217140748918647
+ Joshua Wheeler             | M      | 0.69242631180280977500
+ Mark Kelly                 | M      | 0.69413187459821772113
+ Usha Reddi                 | F      | 0.69956056403417860414
+ Theresa Greenfield         | F      | 0.70501172789767567256
+ Sharon Hudson              | F      | 0.70540935843293425000
+ Barbara Bollier            | F      | 0.71622659868379246063
+ Hirsh Singh                | M      | 0.72237660338929281728
+ Doug Jones                 | M      | 0.72369652873803412196
+ J.J. Stitt                 | M      | 0.72539578423416067753
+ Dan Whitfield              | M      | 0.73018648156832526640
+ Kelly Loeffler             | F      | 0.73169406208308431431
+ Tina Smith                 | F      | 0.74156602712070751651
+ Daniel McCarthy            | M      | 0.74172567825120836886
+ Antoine Pierce             | M      | 0.74278954542063454900
+ Matt Lieberman             | M      | 0.74413383252551701658
+ Jim Inhofe                 | M      | 0.74623604527625282750
+ Jason Lewis                | M      | 0.75838709868040430369
+ Amanda Edwards             | F      | 0.76077370165786384900
+ Jon Ossoff                 | M      | 0.76077719156354727697
+ Amy McGrath                | F      | 0.76501954636003208407
+ Willie Wilson              | M      | 0.76627909659065618226
+ Paula Jean Swearengin      | F      | 0.77520904405454429800
+ Cora Neumann               | F      | 0.77709589576670923344
+ Elizabeth McLeod           | F      | 0.77724619270857883333
+ Steve Daines               | M      | 0.78163919875390503351
+ James Mackler              | M      | 0.78707897134109770003
+ Jaime Harrison             | M      | 0.78851198346652932878
+ Byron Bush                 | M      | 0.78866967314229477051
+ Joni Ernst                 | F      | 0.79019956295322349360
+ Jeff Sessions              | M      | 0.79328103883724753746
+ Jess Scarane               | F      | 0.79425999307688841053
+ Annie "Mama" Garcia        | F      | 0.80213671024421159240
+ Madelyn Hoffman            | F      | 0.80225209636643860000
+ Thom Tillis                | M      | 0.80587038885395775612
+ Raphael Warnock            | M      | 0.81052076805019873333
+ Kimberly Graham            | F      | 0.81234928203109533682
+ Angie Philips              | F      | 0.81371679155169008519
+ Cristina Tzintzún Ramirez  | F      | 0.81455211583444561669
+ Abby Broyles               | F      | 0.81477349151978009395
+ Michael K. Cooper          | M      | 0.81657030794228146313
+ Sarah Riggs Amico          | F      | 0.81743445199837119379
+ Lisa Savage                | F      | 0.81767209379622147525
+ Roy Moore                  | M      | 0.81769888221094717579
+ Lawrence Hamm              | M      | 0.82032835712547311283
+ Shelley Moore Capito       | F      | 0.82193204472180366566
+ Martha McSally             | F      | 0.82279614387882774368
+ Eric Rothmuller            | M      | 0.82737191131348260000
+ Kerry McKennon             | M      | 0.82974569877729575714
+ Teresa Tomlinson           | F      | 0.83111757046118561943
+ Elisa Martinez             | F      | 0.84093900885501335113
+ Ed Markey                  | M      | 0.84250175830381481986
+ David Perdue               | M      | 0.84357663601425960311
+ Mick Rich                  | M      | 0.84498126892908093669
+ Mike Broihier              | M      | 0.85326611921437104594
+ Betsy Sweet                | F      | 0.85360220363619270288
+ Justin O'Donnell           | M      | 0.85773875663594483615
+ Paula Overby               | F      | 0.85820476648001617500
+ Paul Romero                | M      | 0.86368985506446121459
+ Erica D. Smith             | F      | 0.86406710233045775164
+ Peggy Hubbard              | F      | 0.86610424307436752790
+ Tom Cotton                 | M      | 0.87388325460581006591
+ Chris Janicek              | M      | 0.89475230471210162500
+ Elysabeth Britt            | F      | 0.89673173163765020455
+ Ben Sasse                  | M      | 0.90135172621659616956
+ Joe Kennedy III            | M      | 0.90428038324221527276
+ Veronica Fernandez         | F      | 0.90730098361536760000
+ Brian Matlock              | M      | 0.91189935081525090909
+ Wesley Morgan              | M      | 0.91593839025246034377
+ Danielle VanHelsing        | F      | 0.92183713516738344000
+ Stephany Rose Spaulding    | F      | 0.94032083646965056837
+ Charles Booker             | M      | 0.94456873200946214883
+ Yana Ludwig                | F      | 0.95057108433151122695
+ Doug Collins               | M      | 0.95597613069933410412
+ Shannon Bray               | M      | 0.95981535869876236111
+ David Weikle               | M      | 0.95986108702998943877
+ Trish Zornio               | F      | 0.96070264461329453409
+ Lorena Garcia              | F      | 0.96356463472539379536
+ Chris Coons                | M      | 0.96827346385027983396
+ Bill Cassidy               | M      | 0.97855021565052517264
+ Alisha Shelton             | F      | 0.98303369924435501786
+ Susan Collins              | F      | 0.98602573853536965857
+ Eddie Mauro                | M      | 1.00320425418519305341
+ Richard Ojeda              | M      |    1.00790960215668014
+ Gavin Clarkson             | M      |    1.00810506764571697
+ Gary Peters                | M      |    1.00951549045402639
+ Wilmot Collins             | M      |    1.01404090544513303
+ John Hickenlooper          | M      |    1.01641791542141023
+ Sema Hernandez             | F      |    1.02671290282477363
+ Ben Ray Luján              | M      |    1.03723607703643103
+ Nancy Harris               | F      |    1.03745775376832334
+ Cory Booker                | M      |    1.04179513508084494
+ John Cornyn                | M      |    1.05714074507814067
+ Lindsey Graham             | M      |     1.0886048480555807
+ Bre Kidman                 | F      |     1.0900137612143238
+ Jeff Merkley               | M      |    1.09435501516676317
+ Erik Underwood             | M      | 1.11493148834508737500
+ Dick Durbin                | M      |    1.15266393617568737
+ Craig Brittain             | M      |    1.26684912121876299
+ Tiffany Bond               | F      | 1.35666951983331070000
+ Victor Hugo Harris         | M      |     1.3884853831298046
+ Mitch McConnell            | M      |     1.4335889891296495
+ Mike Workman               | M      | 1.51358559421210930000
+ Maya Dillard Smith         | F      | 1.58275817503868800000
+(161 rows)
+
+
+Average entropy for each pages posts controlling for date and minimum reactions:
+            name            | gender |          avg           
+----------------------------+--------+------------------------
+ Glen L. Neal, Jr.          | M      | 0.00000000000000000000
+ Kevin O'Connor             | M      | 0.35363097860387152085
+ Matt Innis                 | M      | 0.35669672177147297140
+ Michael Franken            | M      | 0.37832090075234102220
+ Rik Mehta                  | M      | 0.38197921807122927449
+ Merav Ben-David            | F      | 0.38611782257203200469
+ Doc Bolduc                 | M      | 0.39495265436287479415
+ Aaron Pettigrew            | M      | 0.40799802025295335000
+ Tom Tarter                 | M      | 0.43063064394691542285
+ Natalie Rivera             | F      | 0.44052818180573713333
+ Linda Wooten               | F      | 0.47930391403844720000
+ Ross LaJeunesse            | M      | 0.48855274859843019258
+ Mark Curran                | M      | 0.49028182445212739956
+ Johnny Presley             | M      | 0.49810752153740091569
+ Daniel Burke               | M      | 0.51085898919311701429
+ Jon Henry                  | M      | 0.51395045990335236667
+ Rob Barrett Jr.            | M      | 0.51679755723240890613
+ Corky Messner              | M      | 0.51985390651388031864
+ Arnold Mooney              | M      | 0.52531470232481057486
+ Royce West                 | M      | 0.53334856953675337163
+ Kris Kobach                | M      | 0.53631426205822136058
+ Casey Chlebek              | M      | 0.54048724527883121200
+ Jo Rae Perkins             | F      | 0.54685505745982300000
+ Sara Gideon                | F      | 0.55446312049893694296
+ Tommy Tuberville           | M      | 0.56883436120148535866
+ Madelyn Hoffman            | F      | 0.58017022782945127500
+ Duke Buckner               | M      | 0.59069060283310844765
+ Dwayne Stovall             | M      | 0.59746668599203881226
+ Bill Hagerty               | M      | 0.60036818003019546174
+ Michael LaPierre           | M      | 0.60584915034125383811
+ Susan Wagle                | F      | 0.61212156775237388563
+ Bryan Pruitt               | M      | 0.61595554984145695000
+ Richard Dien Winfield      | M      | 0.62050499141956482500
+ Cindy Hyde-Smith           | F      | 0.62587708994849751812
+ Cynthia Lummis             | F      | 0.63176397598402166424
+ Dan Sullivan               | M      | 0.63208992935281553143
+ Al Gross                   | M      | 0.63972546451567813219
+ John Anthony Castro        | M      | 0.64417790529987775000
+ Diana Bray                 | F      | 0.64710387033006315000
+ Mark Ronchetti             | M      | 0.64811044928298203404
+ Michelle Ferrigno Warren   | F      | 0.65071685962302193232
+ Roger Marshall             | M      | 0.65194602624803232192
+ Mary Jennings Hegar        | F      | 0.65452870361313190054
+ Manny Sethi                | M      | 0.65539564483246804632
+ Bradley Byrne              | M      | 0.65580940441745534141
+ Hirsh Singh                | M      | 0.65669533801188890595
+ Allen Waters               | M      | 0.66208524845738465663
+ John James                 | M      | 0.66489297050770188697
+ Allen Whitt                | M      | 0.66811270268988452727
+ John Mues                  | M      | 0.67416106020773061763
+ Jeanne Shaheen             | F      | 0.67455038581280749920
+ Dave Lindstrom             | M      | 0.67457815034278362716
+ Andrew Romanoff            | M      | 0.67786016169215090239
+ R. Mark Armstrong          | M      | 0.67930955999788220000
+ Lauren Witzke              | F      | 0.68194144075262086405
+ Tricia Flanagan            | F      | 0.68695174747019806739
+ Paul John Frangedakis      | M      | 0.68736674561552095000
+ Ricky Dale Harrington Jr.  | M      | 0.68780217140748918647
+ Joshua Wheeler             | M      | 0.69373582748750837941
+ Usha Reddi                 | F      | 0.69493095612368361289
+ Theresa Greenfield         | F      | 0.69998591278364371021
+ Sharon Hudson              | F      | 0.70540935843293425000
+ Barbara Bollier            | F      | 0.71622659868379246063
+ Doug Jones                 | M      | 0.71972051850173020276
+ Mark Kelly                 | M      | 0.72233778324570814911
+ Cal Cunningham             | M      | 0.72502017042367108353
+ J.J. Stitt                 | M      | 0.72539578423416067753
+ Dan Whitfield              | M      | 0.73136537361033754354
+ Kelly Loeffler             | F      | 0.73169406208308431431
+ Willie Wilson              | M      | 0.73764968643058261634
+ Roy Moore                  | M      | 0.73850558638194162302
+ Antoine Pierce             | M      | 0.74159441683052908757
+ Daniel McCarthy            | M      | 0.74172567825120836886
+ Jon Ossoff                 | M      | 0.74300609743283703829
+ Matt Lieberman             | M      | 0.74413383252551701658
+ Tina Smith                 | F      | 0.74541389088882501555
+ Jim Inhofe                 | M      | 0.74589651022836276717
+ Amanda Edwards             | F      | 0.74998826056411116733
+ Trevor Fuller              | M      | 0.75076765934115772500
+ Jason Lewis                | M      | 0.75408738646419147302
+ Amy McGrath                | F      | 0.75855676696813550189
+ Abby Broyles               | F      | 0.76227828071994978785
+ James Mackler              | M      | 0.76328657116261945704
+ Paula Jean Swearengin      | F      | 0.77520904405454429800
+ Cora Neumann               | F      | 0.77709589576670923344
+ Elizabeth McLeod           | F      | 0.77724619270857883333
+ Kerry McKennon             | M      | 0.78526099920702145833
+ Jaime Harrison             | M      | 0.78540898322568364465
+ Steve Daines               | M      | 0.78580357206486996969
+ Cristina Tzintzún Ramirez  | F      | 0.78748409961870673933
+ Byron Bush                 | M      | 0.78866967314229477051
+ Michael K. Cooper          | M      | 0.79320235092436463000
+ Jeff Sessions              | M      | 0.79328103883724753746
+ Thom Tillis                | M      | 0.79380821295642309536
+ Jess Scarane               | F      | 0.79425999307688841053
+ Joni Ernst                 | F      | 0.79832215957234017657
+ Annie "Mama" Garcia        | F      | 0.80213671024421159240
+ Sarah Riggs Amico          | F      | 0.80355462582936893805
+ Angie Philips              | F      | 0.80400581792587394143
+ Raphael Warnock            | M      | 0.81052076805019873333
+ Lawrence Hamm              | M      | 0.81179286061200772077
+ Kimberly Graham            | F      | 0.81264824112877968315
+ Peggy Hubbard              | F      | 0.81702370606774593497
+ Lisa Savage                | F      | 0.81767209379622147525
+ Eric Rothmuller            | M      | 0.82737191131348260000
+ Martha McSally             | F      | 0.83793597201768375682
+ Elisa Martinez             | F      | 0.84093900885501335113
+ Mike Broihier              | M      | 0.84224113659641281731
+ Mick Rich                  | M      | 0.84405837402271963970
+ Ed Markey                  | M      | 0.84483647607117973257
+ Teresa Tomlinson           | F      | 0.85094540170099256109
+ Betsy Sweet                | F      | 0.85360220363619270288
+ Erica D. Smith             | F      | 0.85617369799554440814
+ Paul Romero                | M      | 0.86627487688947567611
+ Elysabeth Britt            | F      | 0.86682903056559008889
+ David Perdue               | M      | 0.87521300894178189241
+ Joe Kennedy III            | M      | 0.88954347029491466125
+ Chris Janicek              | M      | 0.89475230471210162500
+ Justin O'Donnell           | M      | 0.89757467101758573000
+ Shelley Moore Capito       | F      | 0.90330568577308231765
+ Veronica Fernandez         | F      | 0.90730098361536760000
+ Brian Matlock              | M      | 0.91189935081525090909
+ Charles Booker             | M      | 0.92821909257353592846
+ Paula Overby               | F      | 0.93386701953247330000
+ Yana Ludwig                | F      | 0.93525147192095174282
+ Tom Cotton                 | M      | 0.94493688271758052590
+ Ben Sasse                  | M      | 0.94748864476285941769
+ Wesley Morgan              | M      | 0.94849613343360117915
+ Doug Collins               | M      | 0.95597613069933410412
+ Stephany Rose Spaulding    | F      | 0.96327979730372495341
+ Trish Zornio               | F      | 0.96340892659304289936
+ Lorena Garcia              | F      | 0.96609910183561926719
+ Bill Cassidy               | M      | 0.97118750175185880277
+ Susan Collins              | F      | 0.97329131096666318119
+ David Weikle               | M      | 0.97867200041889718914
+ Shannon Bray               | M      | 0.98114826335144594118
+ Alisha Shelton             | F      | 0.98303369924435501786
+ Richard Ojeda              | M      | 0.99202202160581587190
+ Gary Peters                | M      |    1.00731394408365043
+ Gavin Clarkson             | M      |    1.01378709625132589
+ Wilmot Collins             | M      |    1.01860672730587971
+ John Hickenlooper          | M      |    1.02245296162520847
+ Sema Hernandez             | F      |    1.03610179728077332
+ Jeff Merkley               | M      |    1.04381838243723173
+ Eddie Mauro                | M      |    1.05299643000455183
+ Cory Booker                | M      |    1.05480112589398904
+ Nancy Harris               | F      |    1.05743003527969919
+ Chris Coons                | M      |    1.05809954032898413
+ Ben Ray Luján              | M      |    1.05831111641950462
+ Lindsey Graham             | M      |     1.0802327156791359
+ Bre Kidman                 | F      |     1.0856099980314276
+ John Cornyn                | M      |    1.08648321823625754
+ Erik Underwood             | M      | 1.11493148834508737500
+ Dick Durbin                | M      |    1.14058801647234738
+ Mitch McConnell            | M      |     1.3625390398794314
+ Craig Brittain             | M      |     1.3735105899111480
+ Victor Hugo Harris         | M      |     1.3884853831298046
+ Mike Workman               | M      | 1.51358559421210930000
+ Maya Dillard Smith         | F      | 1.58275817503868800000
+(159 rows)
+
